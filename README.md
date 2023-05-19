@@ -12,6 +12,9 @@
 - 🤔 I’m looking to connect with other Full Stack Developers</strong> <br>
 - 😄 Pronouns: He/Him</strong>
 
+<h3> Languages and Tools: </h3>
+
+
 <!--
 **LeoKalshteyn/LeoKalshteyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
